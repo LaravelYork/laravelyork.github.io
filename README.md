@@ -1,3 +1,3 @@
-# laravelyork.github.io
+Laravel York Meetup
 
 Artisans unite in York, England to discuss our ever beautiful PHP code.
